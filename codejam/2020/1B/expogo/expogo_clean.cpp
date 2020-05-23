@@ -1,0 +1,2 @@
+#include <bits/stdc++.h>
+using namespace std;typedef long long i;i m(i x1,i y1,i x2,i y2){return abs(x1-x2)+abs(y1-y2);}int main(){i T;cin>>T;for(i t=1;t<=T;t++){cout<<"Case #"<<t<<": ";i X,Y;cin>>X>>Y;i d=m(0,0,X,Y);i p=1;while((1LL<<p)-1<d)p++;i v=1;string s="";while(p){if(m(0,0,X,Y)%2==0)v=0;i q=1LL<<(--p);if(m(q,0,X,Y)<q){X-=q;s="E"+s;}else if(m(0,q,X,Y)<q){Y-=q;s="N"+s;}else if(m(-q,0,X,Y)<q){X+=q;s="W"+s;}else if(m(0,-q,X,Y)<q){Y+=q;s="S"+s;}}cout<<(v?s:"IMPOSSIBLE")<<"\n";}}

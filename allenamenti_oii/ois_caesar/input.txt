@@ -1,0 +1,6 @@
+5 4
+aaaa
+bbbb
+abab
+fgfg
+hhhh

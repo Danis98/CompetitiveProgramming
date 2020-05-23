@@ -1,0 +1,41 @@
+Honorable Jejeman the Honorable
+Honorable Rodrix the Thirtieth
+Heneral Luna the General
+Heneral Heneroso the Specific
+Lolo Generoso the Brandy
+Ninong Generous the Lostcookie
+Heneral Grievous the Grieving
+Sir Jabba the Hutt
+Madam Pizza the Hut
+Sir Chew the Baka
+Darth Plagueis the Wise
+Darth Aegis the Band
+Miss Taylor the Swift
+Sir Freddie the Mercurial
+Sir Shia the Buff
+Sir Pew the Pie
+Miss Ter the Jay
+Binibining Pilipinas the Pageant
+Madam Damin the Madamdamin
+Madam Sibuyas the Onion
+Lola Ynidora the Odorous
+Sir Plato the Contemplator
+Miss Gora the Explorer
+Honorable Ben the Solver
+Darth Eric the Tester
+----------
++ Lolo Generoso
+UNION
+FIND the Wise
+FIND the Swift
+FIND the Onion
+- Lolo Generoso
+UNION
++ Lolo Generoso
+UNION
+UNION
+- Lolo Generoso
+UNION
+UNION
+UNION
+END
